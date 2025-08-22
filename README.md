@@ -1,6 +1,4 @@
-# data_mining_project
-
-# What Leaderboards Reveal About LLM Evolution
+# What Leaderboards Reveal About LLM Evolution - Data Mining Project
 
 This repository analyzes open leaderboard data to trace the evolution of Large Language Models (LLMs) over time. The main workflow lives in `main.ipynb`, which loads leaderboard datasets, performs exploratory analysis, identifies structural shifts, clusters capability profiles, and builds simple predictive models with explainability.
 
