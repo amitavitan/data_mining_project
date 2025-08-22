@@ -12,7 +12,6 @@ This repository analyzes open leaderboard data to trace the evolution of Large L
 .
 ├── main.ipynb               # End-to-end analysis notebook
 ├── data/                    # Place input CSVs here (see below)
-├── results/                 # Generated figures/tables (created on run)
 └── README.md                # This file
 ```
 
